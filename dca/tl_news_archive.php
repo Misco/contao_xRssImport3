@@ -221,7 +221,6 @@ $tmpfields = array(
                                         'foreignKey' => 'tl_user.name',
                                         'eval' => array(
                                                         'doNotCopy' => true,
-                                                        'mandatory' => true,
                                                         'includeBlankOption' => true,
                                                         'tl_class' => 'w50'
                                         ),
